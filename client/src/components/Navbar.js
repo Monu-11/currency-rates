@@ -16,4 +16,3 @@ const Navbar = (props) => {
 }
 
 export default Navbar
-//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
